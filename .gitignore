@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+output.jpg
+output20.jpg
+*.js
+.env

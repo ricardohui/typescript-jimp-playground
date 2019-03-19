@@ -1,0 +1,19 @@
+{
+  "name": "ts-jimp-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "jimp": "^0.6.0",
+    "node": "^11.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.3"
+  }
+}
